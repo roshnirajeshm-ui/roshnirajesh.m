@@ -17,4 +17,4 @@ Marketing professional with 5 years of experience in social media, content and c
 - [Budget Allocation Capstone](link) - Excel / SQL / Python
 
 ## Connect
-LinkedIn: [your LinkedIn link]  |  Email: roshnirajesh.m@gmail.com
+LinkedIn: https://www.linkedin.com/in/roshnirajeshm9|  Email: roshnirajesh.m@gmail.com
